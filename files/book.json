@@ -1,0 +1,92 @@
+{
+  "bookId": "sherlock_speckled_band",
+  "version": "1.0.0",
+  "source": {
+    "type": "public_domain",
+    "publisher": "Project Gutenberg",
+    "license": "PD"
+  },
+
+  "identity": {
+    "title": "The Adventure of the Speckled Band",
+    "author": "Arthur Conan Doyle",
+    "series": "Sherlock Holmes",
+    "publicationYear": 1892,
+    "language": "en"
+  },
+
+  "classification": {
+    "genres": ["Mystery", "Detective"],
+    "readerLevel": {
+      "lexile": 910,
+      "label": "Upper Middle / Early High School"
+    },
+    "difficultyTier": "MEDIUM"
+  },
+
+  "structure": {
+    "totalBites": 114,
+    "chapters": [
+      {
+        "chapterId": "ch_01",
+        "title": "The Band",
+        "biteRange": [1, 14]
+      }
+    ]
+  },
+
+  "learningFocus": {
+    "primarySkills": [
+      "Inference",
+      "Close Reading",
+      "Cause and Effect"
+    ],
+    "secondarySkills": [
+      "Vocabulary in Context",
+      "Narrative Logic"
+    ]
+  },
+
+  "social": {
+    "topicTags": ["crime", "logic", "deduction", "victorian"],
+    "interestTags": ["true_crime", "mystery_fans"],
+    "shareableAchievements": true
+  },
+
+  "badges": {
+    "completionBadge": "badge_speckled_band_complete",
+    "specialtyBadges": [
+      "badge_sherlock_series",
+      "badge_detective_logic"
+    ],
+    "hiddenBadges": [
+      {
+        "id": "badge_perfect_accuracy",
+        "condition": "Complete all bites with >=90% competency"
+      }
+    ]
+  },
+
+  "economics": {
+    "price": {
+      "currency": "USD",
+      "amount": 0.00
+    },
+    "purchaseType": "OWNED",
+    "includedInPlans": ["FREE", "PREMIUM"]
+  },
+
+  "assets": {
+    "coverImage": "cover.jpg",
+    "badgeImages": [
+      "badge_complete.jpg",
+      "badge_detective.jpg"
+    ]
+  },
+
+  "analytics": {
+    "estimatedReadTimeMinutes": 240,
+    "avgSessionMinutes": 6,
+    "engagementWeight": 1.0
+  }
+}

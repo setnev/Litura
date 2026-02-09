@@ -1,0 +1,21 @@
+{
+  "userId": "u_92384",
+
+  "globalStats": {
+    "totalXP": 4820,
+    "totalBitesCompleted": 312,
+    "booksCompleted": 4,
+    "avgCompetency": 84
+  },
+
+  "streaks": {
+    "currentStreakDays": 3,
+    "longestStreakDays": 11
+  },
+
+  "comparisons": {
+    "friendsAhead": 2,
+    "friendsBehind": 3,
+    "lastRankDelta": "+1"
+  }
+}

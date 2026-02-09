@@ -1,0 +1,18 @@
+{
+  "userId": "u_92384",
+  "createdAt": "2026-02-05T14:12:00Z",
+
+  "identity": {
+    "displayName": "Steven",
+    "avatarId": "avatar_07",
+    "privacyMode": "FRIENDS_ONLY"
+  },
+
+  "subscription": {
+    "tier": "FREE",
+    "entitlements": {
+      "unlimitedHealth": false,
+      "unlimitedReviewText": false
+    }
+  }
+}

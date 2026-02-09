@@ -1,0 +1,75 @@
+{
+  "bookId": "pride_and_prejudice_ch1",
+  "version": "1.0.0",
+  "source": {
+    "type": "public_domain",
+    "publisher": "Project Gutenberg",
+    "license": "PD"
+  },
+  "identity": {
+    "title": "Pride and Prejudice - Chapter 1",
+    "author": "Jane Austen",
+    "series": null,
+    "publicationYear": 1813,
+    "language": "en"
+  },
+  "classification": {
+    "genres": ["Romance", "Satire", "Classic"],
+    "readerLevel": {
+      "lexile": 1100,
+      "label": "High School / Early College"
+    },
+    "difficultyTier": "HARD"
+  },
+  "structure": {
+    "totalBites": 8,
+    "chapters": [
+      {
+        "chapterId": "ch_01",
+        "title": "A Truth Universally Acknowledged",
+        "biteRange": [1, 4]
+      },
+      {
+        "chapterId": "ch_02",
+        "title": "Mr. and Mrs. Bennet",
+        "biteRange": [5, 8]
+      }
+    ]
+  },
+  "learningFocus": {
+    "primarySkills": ["Irony Detection", "Character Analysis", "Tone Recognition"],
+    "secondarySkills": ["Vocabulary in Context", "Social Commentary"]
+  },
+  "social": {
+    "topicTags": ["society", "marriage", "wit", "regency"],
+    "interestTags": ["classic_literature", "romance_readers"],
+    "shareableAchievements": true
+  },
+  "badges": {
+    "completionBadge": "badge_pride_prejudice_complete",
+    "specialtyBadges": ["badge_austen_reader"],
+    "hiddenBadges": [
+      {
+        "id": "badge_irony_master",
+        "condition": "Complete all bites with >=95% competency"
+      }
+    ]
+  },
+  "economics": {
+    "price": {
+      "currency": "USD",
+      "amount": 0.00
+    },
+    "purchaseType": "OWNED",
+    "includedInPlans": ["FREE", "PREMIUM"]
+  },
+  "assets": {
+    "coverImage": "cover.jpg",
+    "badgeImages": ["badge_complete.jpg"]
+  },
+  "analytics": {
+    "estimatedReadTimeMinutes": 30,
+    "avgSessionMinutes": 5,
+    "engagementWeight": 1.0
+  }
+}

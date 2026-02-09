@@ -1,0 +1,425 @@
+{
+  "bookId": "sherlock_speckled_band",
+  "questions": [
+    {
+      "questionId": "q_b001_01",
+      "biteId": "b_001",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "Why did Holmes prefer unusual cases?",
+      "choices": [
+        { "id": "A", "text": "They paid more money" },
+        { "id": "B", "text": "He worked for the love of his art, not wealth" },
+        { "id": "C", "text": "He was ordered to by the police" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Watson notes that Holmes worked for the love of his art rather than for the acquirement of wealth."
+    },
+    {
+      "questionId": "q_b001_02",
+      "biteId": "b_001",
+      "type": "COMPREHENSION",
+      "difficulty": "MEDIUM",
+      "prompt": "How many cases did Watson study over eight years?",
+      "choices": [
+        { "id": "A", "text": "About fifty" },
+        { "id": "B", "text": "Over a hundred" },
+        { "id": "C", "text": "About seventy" }
+      ],
+      "correctChoiceId": "C",
+      "explanation": "Watson refers to 'the seventy odd cases' he studied over the last eight years."
+    },
+    {
+      "questionId": "q_b001_03",
+      "biteId": "b_001",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "What does 'none commonplace' suggest about Holmes's work?",
+      "choices": [
+        { "id": "A", "text": "His cases were always extraordinary" },
+        { "id": "B", "text": "He only solved easy cases" },
+        { "id": "C", "text": "He rarely worked" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "By saying none were commonplace, Watson emphasizes that every case Holmes took was unusual or remarkable."
+    },
+    {
+      "questionId": "q_b002_01",
+      "biteId": "b_002",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What was unusual about Holmes being awake early?",
+      "choices": [
+        { "id": "A", "text": "He was normally a late riser" },
+        { "id": "B", "text": "He never slept" },
+        { "id": "C", "text": "He was always up before Watson" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Watson notes that Holmes 'was a late riser, as a rule,' making his early morning appearance surprising."
+    },
+    {
+      "questionId": "q_b002_02",
+      "biteId": "b_002",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What time was it when Watson woke?",
+      "choices": [
+        { "id": "A", "text": "Six o'clock" },
+        { "id": "B", "text": "A quarter-past seven" },
+        { "id": "C", "text": "Eight o'clock" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "The clock on the mantelpiece showed it was a quarter-past seven."
+    },
+    {
+      "questionId": "q_b002_03",
+      "biteId": "b_002",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "Why did Watson feel resentment at being woken?",
+      "choices": [
+        { "id": "A", "text": "He disliked Holmes" },
+        { "id": "B", "text": "He valued his regular habits and routine" },
+        { "id": "C", "text": "He had been out late the night before" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Watson was 'regular in my habits,' so being disturbed early disrupted his routine."
+    },
+    {
+      "questionId": "q_b003_01",
+      "biteId": "b_003",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "Who arrived at their door early in the morning?",
+      "choices": [
+        { "id": "A", "text": "A police officer" },
+        { "id": "B", "text": "A young lady in a state of excitement" },
+        { "id": "C", "text": "Mrs. Hudson's relative" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Holmes tells Watson that 'a young lady has arrived in a considerable state of excitement.'"
+    },
+    {
+      "questionId": "q_b003_02",
+      "biteId": "b_003",
+      "type": "VOCABULARY",
+      "difficulty": "MEDIUM",
+      "prompt": "What does 'knocked up' mean in this context?",
+      "choices": [
+        { "id": "A", "text": "Woken up by knocking" },
+        { "id": "B", "text": "Physically struck" },
+        { "id": "C", "text": "Made angry" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "In Victorian British English, 'knocked up' means to be woken by someone knocking at the door."
+    },
+    {
+      "questionId": "q_b003_03",
+      "biteId": "b_003",
+      "type": "INFERENCE",
+      "difficulty": "HARD",
+      "prompt": "What chain of events does Holmes describe?",
+      "choices": [
+        { "id": "A", "text": "The client woke Mrs. Hudson, who woke Holmes, who woke Watson" },
+        { "id": "B", "text": "Watson woke Holmes who woke Mrs. Hudson" },
+        { "id": "C", "text": "Mrs. Hudson woke everyone at once" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Holmes explains the chain: Mrs. Hudson was knocked up (by the client), she retorted upon Holmes, and Holmes upon Watson."
+    },
+    {
+      "questionId": "q_b004_01",
+      "biteId": "b_004",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "Why does Holmes assume the matter is pressing?",
+      "choices": [
+        { "id": "A", "text": "The young lady told him so" },
+        { "id": "B", "text": "Young ladies don't normally visit at this early hour" },
+        { "id": "C", "text": "Watson seemed worried" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Holmes reasons that when young ladies 'wander about the metropolis at this hour,' it must be something very pressing."
+    },
+    {
+      "questionId": "q_b004_02",
+      "biteId": "b_004",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "Why did Holmes wake Watson?",
+      "choices": [
+        { "id": "A", "text": "He wanted company for breakfast" },
+        { "id": "B", "text": "He wanted to give Watson the chance to follow the case" },
+        { "id": "C", "text": "Watson asked to be woken early" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Holmes says he thought Watson would 'wish to follow it from the outset.'"
+    },
+    {
+      "questionId": "q_b004_03",
+      "biteId": "b_004",
+      "type": "VOCABULARY",
+      "difficulty": "MEDIUM",
+      "prompt": "What does 'metropolis' refer to?",
+      "choices": [
+        { "id": "A", "text": "A large, busy city like London" },
+        { "id": "B", "text": "The countryside" },
+        { "id": "C", "text": "A police station" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Metropolis refers to a very large city, in this case London where Holmes and Watson lived."
+    },
+    {
+      "questionId": "q_b005_01",
+      "biteId": "b_005",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What did Watson enjoy most?",
+      "choices": [
+        { "id": "A", "text": "Writing about cases" },
+        { "id": "B", "text": "Following Holmes in his professional investigations" },
+        { "id": "C", "text": "Sleeping late" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Watson states he 'had no keener pleasure than in following Holmes in his professional investigations.'"
+    },
+    {
+      "questionId": "q_b005_02",
+      "biteId": "b_005",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "What does Watson admire about Holmes's deductions?",
+      "choices": [
+        { "id": "A", "text": "They were slow but thorough" },
+        { "id": "B", "text": "They were swift like intuitions yet logically founded" },
+        { "id": "C", "text": "They were always wrong at first" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Watson admires deductions 'as swift as intuitions, and yet always founded on a logical basis.'"
+    },
+    {
+      "questionId": "q_b005_03",
+      "biteId": "b_005",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "How quickly did Watson get ready?",
+      "choices": [
+        { "id": "A", "text": "In a few minutes" },
+        { "id": "B", "text": "It took him an hour" },
+        { "id": "C", "text": "He was already dressed" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Watson 'rapidly threw on my clothes and was ready in a few minutes.'"
+    },
+    {
+      "questionId": "q_b006_01",
+      "biteId": "b_006",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "How was the lady dressed?",
+      "choices": [
+        { "id": "A", "text": "In a bright red dress" },
+        { "id": "B", "text": "In black with a heavy veil" },
+        { "id": "C", "text": "In a nurse's uniform" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "The text describes 'a lady dressed in black and heavily veiled.'"
+    },
+    {
+      "questionId": "q_b006_02",
+      "biteId": "b_006",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "Why does Holmes introduce Watson as someone she can speak freely before?",
+      "choices": [
+        { "id": "A", "text": "To put her at ease and assure her of Watson's discretion" },
+        { "id": "B", "text": "Because Watson is a lawyer" },
+        { "id": "C", "text": "Because Watson already knows the case" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Holmes assures the lady she can trust Watson, putting her at ease to share her story freely."
+    },
+    {
+      "questionId": "q_b006_03",
+      "biteId": "b_006",
+      "type": "VOCABULARY",
+      "difficulty": "EASY",
+      "prompt": "What does 'intimate friend' mean here?",
+      "choices": [
+        { "id": "A", "text": "A very close and trusted friend" },
+        { "id": "B", "text": "A romantic partner" },
+        { "id": "C", "text": "A business rival" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "In this context, 'intimate friend' means a very close, trusted companion and associate."
+    },
+    {
+      "questionId": "q_b007_01",
+      "biteId": "b_007",
+      "type": "COMPREHENSION",
+      "difficulty": "MEDIUM",
+      "prompt": "How did Holmes know the lady came by train?",
+      "choices": [
+        { "id": "A", "text": "She told him" },
+        { "id": "B", "text": "He observed a return ticket in her glove" },
+        { "id": "C", "text": "He heard the train whistle" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Holmes observed 'the second half of a return ticket in the palm of your left glove.'"
+    },
+    {
+      "questionId": "q_b007_02",
+      "biteId": "b_007",
+      "type": "INFERENCE",
+      "difficulty": "HARD",
+      "prompt": "What does this observation reveal about Holmes?",
+      "choices": [
+        { "id": "A", "text": "He has extraordinary attention to small details" },
+        { "id": "B", "text": "He already knew who she was" },
+        { "id": "C", "text": "He was guessing to impress her" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Holmes's ability to notice a ticket stub in someone's glove demonstrates his extraordinary powers of observation."
+    },
+    {
+      "questionId": "q_b007_03",
+      "biteId": "b_007",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What was Holmes's tone when speaking to the woman?",
+      "choices": [
+        { "id": "A", "text": "Harsh and demanding" },
+        { "id": "B", "text": "Soothing and reassuring" },
+        { "id": "C", "text": "Bored and dismissive" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Holmes spoke 'soothingly, bending forward and patting her forearm,' showing care and reassurance."
+    },
+    {
+      "questionId": "q_b008_01",
+      "biteId": "b_008",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What is the visitor's name?",
+      "choices": [
+        { "id": "A", "text": "Mrs. Hudson" },
+        { "id": "B", "text": "Helen Stoner" },
+        { "id": "C", "text": "Mary Watson" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "She introduces herself as 'Helen Stoner.'"
+    },
+    {
+      "questionId": "q_b008_02",
+      "biteId": "b_008",
+      "type": "COMPREHENSION",
+      "difficulty": "MEDIUM",
+      "prompt": "Who is Helen's stepfather?",
+      "choices": [
+        { "id": "A", "text": "A doctor from London" },
+        { "id": "B", "text": "The last survivor of the Roylott family of Stoke Moran" },
+        { "id": "C", "text": "A retired police inspector" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Helen describes her stepfather as 'the last survivor of one of the oldest Saxon families in England, the Roylotts of Stoke Moran.'"
+    },
+    {
+      "questionId": "q_b008_03",
+      "biteId": "b_008",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "What might 'the name is familiar to me' suggest about Holmes?",
+      "choices": [
+        { "id": "A", "text": "He has encountered the Roylott family before or heard of them" },
+        { "id": "B", "text": "He is pretending to know" },
+        { "id": "C", "text": "He met Helen before" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Holmes recognizing the family name suggests he has broad knowledge or has previously come across the Roylotts."
+    },
+    {
+      "questionId": "q_b009_01",
+      "biteId": "b_009",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What is causing the woman to shiver?",
+      "choices": [
+        { "id": "A", "text": "The cold weather" },
+        { "id": "B", "text": "Fear and terror" },
+        { "id": "C", "text": "An illness" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "She explicitly states: 'It is fear, Mr. Holmes. It is terror.'"
+    },
+    {
+      "questionId": "q_b009_02",
+      "biteId": "b_009",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "How is Helen described when she raises her veil?",
+      "choices": [
+        { "id": "A", "text": "Cheerful and relaxed" },
+        { "id": "B", "text": "Face drawn and grey with frightened eyes" },
+        { "id": "C", "text": "Young and beautiful" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Her face was 'all drawn and grey, with restless frightened eyes.'"
+    },
+    {
+      "questionId": "q_b009_03",
+      "biteId": "b_009",
+      "type": "INFERENCE",
+      "difficulty": "HARD",
+      "prompt": "What does her physical state suggest about her situation?",
+      "choices": [
+        { "id": "A", "text": "She has been under prolonged stress and danger" },
+        { "id": "B", "text": "She just received bad news" },
+        { "id": "C", "text": "She is simply tired from travel" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Her 'pitiable state of agitation' and drawn appearance suggest sustained fear and ongoing danger rather than a momentary shock."
+    },
+    {
+      "questionId": "q_b010_01",
+      "biteId": "b_010",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What does Holmes offer the woman?",
+      "choices": [
+        { "id": "A", "text": "A blanket" },
+        { "id": "B", "text": "A cup of hot coffee" },
+        { "id": "C", "text": "A ride home" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Holmes says 'I shall order you a cup of hot coffee.'"
+    },
+    {
+      "questionId": "q_b010_02",
+      "biteId": "b_010",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "What kind of menace does the narrator describe?",
+      "choices": [
+        { "id": "A", "text": "A sudden, unexpected danger" },
+        { "id": "B", "text": "A constant and inescapable threat" },
+        { "id": "C", "text": "An imaginary fear" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "The text describes 'a menace that is constant and inescapable,' suggesting an ongoing and unavoidable danger."
+    },
+    {
+      "questionId": "q_b010_03",
+      "biteId": "b_010",
+      "type": "VOCABULARY",
+      "difficulty": "MEDIUM",
+      "prompt": "What does 'deep-seated anxiety' mean?",
+      "choices": [
+        { "id": "A", "text": "A worry that is deeply rooted and long-standing" },
+        { "id": "B", "text": "Anxiety about deep water" },
+        { "id": "C", "text": "A minor, passing concern" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Deep-seated means firmly established, suggesting the anxiety is profound and has been building over time."
+    }
+  ]
+}

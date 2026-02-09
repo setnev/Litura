@@ -1,0 +1,12 @@
+{
+  "bookId": "sherlock_speckled_band",
+  "bites": [
+    {
+      "biteId": "b_001",
+      "chapterId": "ch_01",
+      "orderIndex": 1,
+      "text": "My dear Holmes, said I...",
+      "estimatedSeconds": 60
+    }
+  ]
+}

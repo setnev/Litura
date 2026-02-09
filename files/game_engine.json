@@ -1,0 +1,58 @@
+{
+  "engineVersion": "1.0.0",
+
+  "xpRules": {
+    "correct": 10,
+    "halfCredit": 5,
+    "incorrect": 0
+  },
+
+  "healthSystem": {
+    "enabled": true,
+    "maxSegments": 10,
+    "segmentRechargeMinutes": 5,
+    "penalties": {
+      "wrongAnswer": -1,
+      "maxLossPerBite": 4
+    }
+  },
+
+  "questionRules": {
+    "questionsPerBite": 2,
+    "maxAttemptsPerQuestion": 2,
+    "visualFeedback": {
+      "firstWrong": "GRAY_OUT",
+      "secondWrong": "RED_GREEN_REVEAL"
+    }
+  },
+
+  "readingSession": {
+    "lockProgressUntilComplete": true,
+    "allowMidBiteExit": true,
+    "exitWarning": true
+  },
+
+  "reviewText": {
+    "enabled": true,
+    "dailyLimit": 5,
+    "resetPolicy": "SESSION"
+  },
+
+  "competition": {
+    "enabled": true,
+    "comparisonMetrics": [
+      "XP",
+      "COMPETENCY",
+      "BITE_COMPLETION"
+    ],
+    "visibility": {
+      "showRankDelta": true,
+      "showExactRank": false
+    }
+  },
+
+  "difficultyScaling": {
+    "enabled": false,
+    "futureUse": "adaptive_question_selection"
+  }
+}

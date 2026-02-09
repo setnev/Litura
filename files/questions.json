@@ -1,0 +1,19 @@
+{
+  "bookId": "sherlock_speckled_band",
+  "questions": [
+    {
+      "questionId": "q_b001_01",
+      "biteId": "b_001",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "Why does Holmes find the case unusual?",
+      "choices": [
+        { "id": "A", "text": "The crime happened at night" },
+        { "id": "B", "text": "The circumstances defy logic" },
+        { "id": "C", "text": "The victim is wealthy" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Holmes is intrigued because the facts appear contradictory."
+    }
+  ]
+}

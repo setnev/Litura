@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:nek12.dev)",
+      "Bash(./gradlew.bat assembleDebug:*)",
+      "Bash(export JAVA_HOME=\"C:/Program Files/Android/Android Studio/jbr\")",
+      "Bash(./gradlew.bat:*)",
+      "Bash(wmic os get:*)",
+      "Bash(systeminfo:*)",
+      "Bash(powershell:*)",
+      "Bash(gradlew.bat assembleDebug:*)",
+      "Bash(./gradlew assembleDebug:*)",
+      "Bash(JAVA_HOME=\"C:/Program Files/Android/Android Studio/jbr\" ./gradlew:*)",
+      "Bash(gradlew.bat compileDebugKotlin:*)",
+      "Bash(./gradlew compileDebugKotlin:*)"
+    ]
+  }
+}

@@ -1,0 +1,341 @@
+{
+  "bookId": "pride_and_prejudice_ch1",
+  "questions": [
+    {
+      "questionId": "pp_q_b001_01",
+      "biteId": "pp_b001",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "According to the opening, what must a single man with a fortune want?",
+      "choices": [
+        { "id": "A", "text": "A large estate" },
+        { "id": "B", "text": "A wife" },
+        { "id": "C", "text": "More wealth" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "The famous opening states a single man in possession of a good fortune 'must be in want of a wife.'"
+    },
+    {
+      "questionId": "pp_q_b001_02",
+      "biteId": "pp_b001",
+      "type": "INFERENCE",
+      "difficulty": "HARD",
+      "prompt": "What is ironic about the phrase 'truth universally acknowledged'?",
+      "choices": [
+        { "id": "A", "text": "It reflects the neighbors' assumptions, not actual truth" },
+        { "id": "B", "text": "It is a scientific fact" },
+        { "id": "C", "text": "Everyone genuinely agrees with it" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Austen uses irony here; this 'truth' is really the assumption of matchmaking families, not a genuine universal fact."
+    },
+    {
+      "questionId": "pp_q_b001_03",
+      "biteId": "pp_b001",
+      "type": "VOCABULARY",
+      "difficulty": "MEDIUM",
+      "prompt": "What does 'rightful property' suggest about how families viewed the bachelor?",
+      "choices": [
+        { "id": "A", "text": "He was seen as a prize to be claimed for a daughter" },
+        { "id": "B", "text": "He owned property nearby" },
+        { "id": "C", "text": "He was already engaged" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "The phrase satirizes how families saw wealthy bachelors as belonging to their daughters by right."
+    },
+    {
+      "questionId": "pp_q_b002_01",
+      "biteId": "pp_b002",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What news does Mrs. Bennet share with her husband?",
+      "choices": [
+        { "id": "A", "text": "Netherfield Park has been rented" },
+        { "id": "B", "text": "One of their daughters is engaged" },
+        { "id": "C", "text": "They are moving to a new house" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mrs. Bennet excitedly tells Mr. Bennet that 'Netherfield Park is let at last.'"
+    },
+    {
+      "questionId": "pp_q_b002_02",
+      "biteId": "pp_b002",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "What does Mr. Bennet's 'no answer' suggest about his character?",
+      "choices": [
+        { "id": "A", "text": "He enjoys teasing his wife by being indifferent" },
+        { "id": "B", "text": "He is hard of hearing" },
+        { "id": "C", "text": "He is genuinely uninterested in everything" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mr. Bennet's deliberate silence is a form of dry teasing, knowing his wife will continue regardless."
+    },
+    {
+      "questionId": "pp_q_b002_03",
+      "biteId": "pp_b002",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "Who told Mrs. Bennet about Netherfield Park?",
+      "choices": [
+        { "id": "A", "text": "Lady Lucas" },
+        { "id": "B", "text": "Mrs. Long" },
+        { "id": "C", "text": "Mr. Bingley himself" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Mrs. Bennet says 'Mrs. Long has just been here, and she told me all about it.'"
+    },
+    {
+      "questionId": "pp_q_b003_01",
+      "biteId": "pp_b003",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "What does Mr. Bennet mean by 'You want to tell me, and I have no objection'?",
+      "choices": [
+        { "id": "A", "text": "He knows she'll tell him regardless, so he dryly consents" },
+        { "id": "B", "text": "He is eager to hear the news" },
+        { "id": "C", "text": "He is angry with her" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mr. Bennet uses understated humor, acknowledging she'll share the gossip whether he asks or not."
+    },
+    {
+      "questionId": "pp_q_b003_02",
+      "biteId": "pp_b003",
+      "type": "VOCABULARY",
+      "difficulty": "MEDIUM",
+      "prompt": "What is a 'chaise and four'?",
+      "choices": [
+        { "id": "A", "text": "A carriage drawn by four horses" },
+        { "id": "B", "text": "A type of chair" },
+        { "id": "C", "text": "A card game" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "A chaise and four is a carriage pulled by four horses, indicating wealth and status."
+    },
+    {
+      "questionId": "pp_q_b003_03",
+      "biteId": "pp_b003",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "Where is the young man from?",
+      "choices": [
+        { "id": "A", "text": "The south of England" },
+        { "id": "B", "text": "The north of England" },
+        { "id": "C", "text": "Scotland" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Mrs. Long says Netherfield is taken by 'a young man of large fortune from the north of England.'"
+    },
+    {
+      "questionId": "pp_q_b004_01",
+      "biteId": "pp_b004",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What is the young man's name?",
+      "choices": [
+        { "id": "A", "text": "Darcy" },
+        { "id": "B", "text": "Bingley" },
+        { "id": "C", "text": "Morris" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "His name is revealed as 'Bingley.'"
+    },
+    {
+      "questionId": "pp_q_b004_02",
+      "biteId": "pp_b004",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "Why does Mrs. Bennet consider Mr. Bingley 'a fine thing for our girls'?",
+      "choices": [
+        { "id": "A", "text": "She sees him as a potential husband for one of her daughters" },
+        { "id": "B", "text": "He will be a good neighbor" },
+        { "id": "C", "text": "He will employ them" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mrs. Bennet explicitly states 'I am thinking of his marrying one of them.'"
+    },
+    {
+      "questionId": "pp_q_b004_03",
+      "biteId": "pp_b004",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "How much is Mr. Bingley's annual income?",
+      "choices": [
+        { "id": "A", "text": "One or two thousand a year" },
+        { "id": "B", "text": "Four or five thousand a year" },
+        { "id": "C", "text": "Ten thousand a year" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Mrs. Bennet exclaims he has 'four or five thousand a year.'"
+    },
+    {
+      "questionId": "pp_q_b005_01",
+      "biteId": "pp_b005",
+      "type": "INFERENCE",
+      "difficulty": "HARD",
+      "prompt": "Why does Mr. Bennet suggest Mrs. Bennet go herself to meet Bingley?",
+      "choices": [
+        { "id": "A", "text": "He's playfully teasing her by implying Bingley might prefer her" },
+        { "id": "B", "text": "He genuinely thinks she's the most attractive" },
+        { "id": "C", "text": "He doesn't want to go alone" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mr. Bennet uses dry humor, jokingly suggesting 'Mr. Bingley may like you the best of the party.'"
+    },
+    {
+      "questionId": "pp_q_b005_02",
+      "biteId": "pp_b005",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "What does Mrs. Bennet want Mr. Bennet to do?",
+      "choices": [
+        { "id": "A", "text": "Write Mr. Bingley a letter" },
+        { "id": "B", "text": "Visit Mr. Bingley as soon as he arrives" },
+        { "id": "C", "text": "Invite Mr. Bingley to dinner" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Mrs. Bennet insists 'you must visit him as soon as he comes.'"
+    },
+    {
+      "questionId": "pp_q_b005_03",
+      "biteId": "pp_b005",
+      "type": "VOCABULARY",
+      "difficulty": "MEDIUM",
+      "prompt": "What does 'design' mean in 'Is that his design in settling here?'",
+      "choices": [
+        { "id": "A", "text": "His plan or intention" },
+        { "id": "B", "text": "His architectural drawings" },
+        { "id": "C", "text": "His fashion style" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mr. Bennet sarcastically asks if finding a wife is Bingley's plan ('design') in moving to the area."
+    },
+    {
+      "questionId": "pp_q_b006_01",
+      "biteId": "pp_b006",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "What does Mr. Bennet's comment about beauty really mean?",
+      "choices": [
+        { "id": "A", "text": "He's slyly insulting Mrs. Bennet's looks" },
+        { "id": "B", "text": "He genuinely thinks she's beautiful" },
+        { "id": "C", "text": "He's complimenting all five daughters" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "His remark 'a woman has not often much beauty to think of' after five children is a subtle, sardonic jab."
+    },
+    {
+      "questionId": "pp_q_b006_02",
+      "biteId": "pp_b006",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "How many daughters do the Bennets have?",
+      "choices": [
+        { "id": "A", "text": "Three" },
+        { "id": "B", "text": "Five" },
+        { "id": "C", "text": "Seven" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "Mrs. Bennet mentions 'five grown-up daughters.'"
+    },
+    {
+      "questionId": "pp_q_b006_03",
+      "biteId": "pp_b006",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "Does Mrs. Bennet take the compliment about her beauty seriously?",
+      "choices": [
+        { "id": "A", "text": "Yes, she seems pleased by the flattery" },
+        { "id": "B", "text": "No, she gets angry" },
+        { "id": "C", "text": "She ignores it completely" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mrs. Bennet responds 'you flatter me' and admits she has 'had my share of beauty,' seeming pleased."
+    },
+    {
+      "questionId": "pp_q_b007_01",
+      "biteId": "pp_b007",
+      "type": "COMPREHENSION",
+      "difficulty": "MEDIUM",
+      "prompt": "Why does Mrs. Bennet mention Sir William and Lady Lucas?",
+      "choices": [
+        { "id": "A", "text": "To pressure Mr. Bennet by showing their neighbors will visit first" },
+        { "id": "B", "text": "To invite them to dinner" },
+        { "id": "C", "text": "To gossip about them" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "She uses social pressure, noting the Lucases 'are determined to go' to visit Mr. Bingley."
+    },
+    {
+      "questionId": "pp_q_b007_02",
+      "biteId": "pp_b007",
+      "type": "VOCABULARY",
+      "difficulty": "MEDIUM",
+      "prompt": "What does 'establishment' mean here?",
+      "choices": [
+        { "id": "A", "text": "A wealthy marriage and secure social position" },
+        { "id": "B", "text": "A business or shop" },
+        { "id": "C", "text": "A new house" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "In Regency-era context, 'establishment' means a marriage that provides financial security and social standing."
+    },
+    {
+      "questionId": "pp_q_b007_03",
+      "biteId": "pp_b007",
+      "type": "INFERENCE",
+      "difficulty": "MEDIUM",
+      "prompt": "Why would it be 'impossible' for the Bennets to visit if Mr. Bennet doesn't go first?",
+      "choices": [
+        { "id": "A", "text": "Social etiquette required the gentleman of the house to make the first call" },
+        { "id": "B", "text": "Mrs. Bennet was too shy" },
+        { "id": "C", "text": "They didn't own a carriage" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Regency social customs dictated that the head of household must make the introductory visit first."
+    },
+    {
+      "questionId": "pp_q_b008_01",
+      "biteId": "pp_b008",
+      "type": "COMPREHENSION",
+      "difficulty": "EASY",
+      "prompt": "How long have Mr. and Mrs. Bennet been married?",
+      "choices": [
+        { "id": "A", "text": "Ten years" },
+        { "id": "B", "text": "Twenty-three years" },
+        { "id": "C", "text": "Thirty years" }
+      ],
+      "correctChoiceId": "B",
+      "explanation": "The narrator refers to 'the experience of three-and-twenty years' of marriage."
+    },
+    {
+      "questionId": "pp_q_b008_02",
+      "biteId": "pp_b008",
+      "type": "INFERENCE",
+      "difficulty": "HARD",
+      "prompt": "What does the narrator's description suggest about the Bennets' marriage?",
+      "choices": [
+        { "id": "A", "text": "They are fundamentally mismatched in intellect and temperament" },
+        { "id": "B", "text": "They are deeply in love" },
+        { "id": "C", "text": "They rarely speak to each other" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "Mr. Bennet's complex wit contrasts sharply with Mrs. Bennet's 'mean understanding,' showing a mismatch."
+    },
+    {
+      "questionId": "pp_q_b008_03",
+      "biteId": "pp_b008",
+      "type": "VOCABULARY",
+      "difficulty": "HARD",
+      "prompt": "What does 'mean understanding' describe?",
+      "choices": [
+        { "id": "A", "text": "Limited intelligence or comprehension" },
+        { "id": "B", "text": "A cruel disposition" },
+        { "id": "C", "text": "Average knowledge" }
+      ],
+      "correctChoiceId": "A",
+      "explanation": "In this context, 'mean' means poor or inferior, describing Mrs. Bennet's limited intellectual capacity."
+    }
+  ]
+}
